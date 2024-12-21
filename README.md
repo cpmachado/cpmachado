@@ -6,4 +6,5 @@ and rarely I finish them on my own.
 It's not for a lack of trying, but I'm trying harder now.
 
 My place: [https://cpmachado.pt](https://cpmachado.pt)
+
 My blog: [https://cpmachado.github.io](https://cpmachado.github.io "A strange blog")
