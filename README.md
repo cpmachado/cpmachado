@@ -1,3 +1,5 @@
+## A mathematician who hacks for a living.
+
 Welcome to my github profile, please do read my description, and hopefully find anything useful.
 
 A friend of mine once described this place as a basket of half eaten apples, as many things are started,
